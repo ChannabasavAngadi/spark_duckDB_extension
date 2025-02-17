@@ -1,0 +1,6 @@
+setup.py
+duckdb_extension.egg-info/PKG-INFO
+duckdb_extension.egg-info/SOURCES.txt
+duckdb_extension.egg-info/dependency_links.txt
+duckdb_extension.egg-info/requires.txt
+duckdb_extension.egg-info/top_level.txt

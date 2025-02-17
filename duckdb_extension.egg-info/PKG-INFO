@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: duckdb-extension
+Version: 0.1
+Summary: A PySpark extension for writing to DuckDB with Parquet as an intermediary
+Home-page: UNKNOWN
+Author: Your Name
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+
