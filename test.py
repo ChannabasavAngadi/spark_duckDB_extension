@@ -9,4 +9,4 @@ register_duckdb_extension(spark)
 df=spark.read.csv("DME_LIST.csv",header=True)
 
 # Use the custom extension to write the DataFrame to DuckDB and specify the table name
-df.write.duckdb_extension("./my_db.duckdb", "newtable" , mode="append")
+df.write.duckdb_extension(database="./my_db.duckdb", table_name="newtable", mode="append")
